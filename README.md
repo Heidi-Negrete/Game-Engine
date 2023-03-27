@@ -1,2 +1,6 @@
 # Game-Engine
-C++ ECS based game engine for 2D games.
+
+C++ ECS programming architecture
+Easy 2D Game Creation
+Incorporate game scenes
+Level Editor
